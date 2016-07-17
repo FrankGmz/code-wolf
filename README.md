@@ -1,6 +1,6 @@
 # code-wolf
 
-[View project here](https://rawgit.com/FrankGmz/code-wolf/master/index.html)
+
 
 
 
